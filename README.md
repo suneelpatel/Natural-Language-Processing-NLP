@@ -14,7 +14,7 @@ This repository will provide an overview and working knowledge of Natural Langua
 
 
 # 2. Introduction to NLP
-
+NLP is a branch of data science that consists of systematic processes for analyzing, understanding, and deriving information from the text data in a smart and efficient manner. 
 
 # 3. Introduction to NLTK Environment
 
