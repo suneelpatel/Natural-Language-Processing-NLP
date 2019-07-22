@@ -25,6 +25,8 @@ NLP is a branch of data science that consists of systematic processes for analyz
 
 By utilizing NLP and its components, one can organize the massive chunks of text data, perform numerous automated tasks and solve a wide range of problems such as – automatic summarization, machine translation, named entity recognition, relationship extraction, sentiment analysis, speech recognition, and topic segmentation etc.
 
+Natural Language Processing is manipulation or understanding text or speech by any software or machine. An analogy is that humans interact, understand each other views, and respond with the appropriate answer. In NLP, this interaction, understanding, the response is made by a computer instead of a human.
+
 ### Natural Language Processing Applications
 Here’s a list of real-world applications that make use of NLP techniques:
 * **Sentimental Analysis:** By implementing NLP Tech giants such as Amazon and Netflix, gain insights on their customers to enhance their products and make better recommendations.
@@ -36,6 +38,8 @@ Here’s a list of real-world applications that make use of NLP techniques:
 
 # 3. Introduction to NLTK Environment
 NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an active discussion forum.
+
+NLTK stands for Natural Language Toolkit. This toolkit is one of the most powerful NLP libraries which contains packages to make machines understand human language and reply to it with an appropriate response.
 
 
 # 4. Extracting, Cleaning and Preprocessing Text
