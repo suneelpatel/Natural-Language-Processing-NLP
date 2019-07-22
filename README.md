@@ -13,6 +13,13 @@ This repository will provide an overview and working knowledge of Natural Langua
 # 1. Introduction to Text Mining 
 Text Mining is the process of deriving useful information from text.
 
+### What is Text Mining?
+* Text mining /Text Analytics is the process of driving meaningful information from natural language text.
+* As, Text mining refers to process of driving high quality information from the text.
+* Text mining is defined as the process of analysing text to pull out the relevant information for specific purpose.
+* Text Mining usually involves the process of structuring the input text, driving pattern within the structured data, and finally evaluating and interpreting the output.
+
+
 # 2. Introduction to NLP
 NLP is a branch of data science that consists of systematic processes for analyzing, understanding, and deriving information from the text data in a smart and efficient manner. 
 
