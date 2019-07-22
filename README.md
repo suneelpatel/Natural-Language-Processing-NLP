@@ -23,9 +23,10 @@ Text Mining is the process of deriving useful information from text.
 # 2. Introduction to NLP
 NLP is a branch of data science that consists of systematic processes for analyzing, understanding, and deriving information from the text data in a smart and efficient manner. 
 
+By utilizing NLP and its components, one can organize the massive chunks of text data, perform numerous automated tasks and solve a wide range of problems such as – automatic summarization, machine translation, named entity recognition, relationship extraction, sentiment analysis, speech recognition, and topic segmentation etc.
+
 ### Natural Language Processing Applications
 Here’s a list of real-world applications that make use of NLP techniques:
-
 * **Sentimental Analysis:** By implementing NLP Tech giants such as Amazon and Netflix, gain insights on their customers to enhance their products and make better recommendations.
 * **Chatbot:** Chatbots are becoming popular in the field of customer service. A popular example is Eva the HDFC chatbot who has addressed over 3 million customer queries, interacted with over half a million unique users, and held over a million conversations.
 * **Speech Recognition:** NLP has been used widely in speech recognition, we’re all aware of Alexa, Siri, Google assistant, and Cortana. They’re all applications of NLP.
