@@ -1,0 +1,1 @@
+Hi Learner! Welcome to NLP (Natural Language Processing) with Python. Here you will learn text mining and processing on natural language data. Are you aware about the Python basics? 
