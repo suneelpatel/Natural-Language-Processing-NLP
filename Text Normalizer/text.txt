@@ -1,0 +1,20 @@
+I'd like to discuss with you about the text normailizaiton process step by step here. Here we'll get this data from wikipedia.
+
+HTML markup consists of several key components, including those called tags (and their attributes), character-based data types, character references and entity references. HTML tags most commonly come in pairs like <h1> and </h1>, although some represent empty elements and so are unpaired, for example <img>. The first tag in such a pair is the start tag, and the second is the end tag (they are also called opening tags and closing tags).
+
+Another important component is the HTML document type declaration, which triggers standards mode rendering.
+
+The following is an example of the classic "Hello, World!" program:
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is a title</title>
+  </head>
+  <body>
+    <div>
+        <p>Hello world!</p>
+    </div>
+  </body>
+</html>
+The text between <html> and </html> describes the web page, and the text between <body> and </body> is the visible page content. The markup text <title>This is a title</title> defines the browser page title, and the tag <div> defines a division of the page used for easy styling.
